@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.absolute-center {
+    position: absolute;
+    left: 50%;
+    top: 505%;
+    transform: translate(-50%, -50%);
+}
